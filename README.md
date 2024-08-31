@@ -36,5 +36,6 @@ to use it you must add a workspace.
 [recon-ng][facebook.com] > workspaces create samglishinc.000webhostapp.com
 ```
 we added two workspaces, to view the list of workspaces
-
-
+```bash
+[recon-ng][samglishinc.000webhostapp.com] > workspaces list
+```
