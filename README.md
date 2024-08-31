@@ -28,6 +28,7 @@ _/    _/  _/_/_/_/    _/_/_/    _/_/_/    _/      _/            _/      _/    _/
 [recon-ng][default] > 
 ```
 to use it you must add a workspace.
+* facebook
 ```bash
 [recon-ng][default] > workspaces create facebook
 ```
@@ -38,6 +39,7 @@ Add Domains
 ```
 domain (TEXT): facebook.com
 ```
+* samglishinc
 we added two workspaces, to view the list of workspaces
 ```bash
 [recon-ng][samglishinc.000webhostapp.com] > workspaces list
@@ -48,8 +50,8 @@ OUTPUT
   |           Workspaces          |       Modified      |
   +-----------------------------------------------------+
   | default                       | 2024-08-31 07:54:20 |
-  | facebook.com                  | 2024-08-31 07:59:33 |
-  | samglishinc.000webhostapp.com | 2024-08-31 07:59:56 |
+  | facebook                      | 2024-08-31 07:59:33 |
+  | samglishinc                   | 2024-08-31 07:59:56 |
   +-----------------------------------------------------+
 
 ```
