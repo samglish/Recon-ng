@@ -33,7 +33,7 @@ to use it you must add a workspace.
 [recon-ng][default] > workspaces create facebook.com
 ```
 ```bash
-[recon-ng][default] > workspaces create samglishinc.000webhostapp.com
+[recon-ng][facebook.com] > workspaces create samglishinc.000webhostapp.com
 ```
 we added two workspaces, to view the list of workspaces
 
