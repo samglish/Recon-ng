@@ -35,3 +35,6 @@ to use it you must add a workspace.
 ```bash
 [recon-ng][default] > workspaces create samglishinc.000webhostapp.com
 ```
+we added two workspaces, to view the list of workspaces
+
+
