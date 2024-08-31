@@ -39,6 +39,7 @@ Add Domains
 ```
 domain (TEXT): facebook.com
 ```
+[*] 1 rows affected.
 * samglishinc
 ```bash
 [recon-ng][default] > workspaces create samglishinc
@@ -50,6 +51,8 @@ Add Domains
 ```
 domain (TEXT): samglishinc.000webhostapp.com
 ```
+[*] 1 rows affected.
+
 we added two workspaces, to view the list of workspaces
 ```bash
 [recon-ng][samglishinc.000webhostapp.com] > workspaces list
