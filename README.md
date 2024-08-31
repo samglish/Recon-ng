@@ -32,8 +32,9 @@ to use it you must add a workspace.
 ```bash
 [recon-ng][default] > workspaces create facebook
 ```
+Add Domains
 ```bash
-[recon-ng][facebook.com] > workspaces create samglishinc.000webhostapp.com
+[recon-ng][facebook.com] > db insert domains
 ```
 we added two workspaces, to view the list of workspaces
 ```bash
