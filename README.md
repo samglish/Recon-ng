@@ -72,4 +72,14 @@ let's check the domains
 ```bash
 [recon-ng][facebook.com] > show domains
 ```
+```
+  +------------------------------------------------------+
+  | rowid |     domain    |     notes     |    module    |
+  +------------------------------------------------------+
+  | 1     | facebook.com  | scan facebook | user_defined |
+  +------------------------------------------------------+
+
+[*] 1 rows returned
+```
+
 
