@@ -40,6 +40,16 @@ Add Domains
 domain (TEXT): facebook.com
 ```
 * samglishinc
+```bash
+[recon-ng][default] > workspaces create samglishinc
+```
+Add Domains
+```bash
+[recon-ng][facebook] > db insert domains
+```
+```
+domain (TEXT): facebook.com
+```
 we added two workspaces, to view the list of workspaces
 ```bash
 [recon-ng][samglishinc.000webhostapp.com] > workspaces list
