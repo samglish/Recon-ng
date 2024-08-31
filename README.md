@@ -45,10 +45,10 @@ domain (TEXT): facebook.com
 ```
 Add Domains
 ```bash
-[recon-ng][facebook] > db insert domains
+[recon-ng][samglishinc] > db insert domains
 ```
 ```
-domain (TEXT): facebook.com
+domain (TEXT): samglishinc.000webhostapp.com
 ```
 we added two workspaces, to view the list of workspaces
 ```bash
