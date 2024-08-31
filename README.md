@@ -33,7 +33,7 @@ to use it you must add a workspace.
 ```
 Add Domains
 ```bash
-[recon-ng][facebook.com] > db insert domains
+[recon-ng][facebook] > db insert domains
 ```
 ```
 domain (TEXT): facebook.com
