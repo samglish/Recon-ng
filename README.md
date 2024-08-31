@@ -30,7 +30,7 @@ _/    _/  _/_/_/_/    _/_/_/    _/_/_/    _/      _/            _/      _/    _/
 to use it you must add a workspace.
 
 ```bash
-[recon-ng][default] > workspaces create facebook.com
+[recon-ng][default] > workspaces create facebook
 ```
 ```bash
 [recon-ng][facebook.com] > workspaces create samglishinc.000webhostapp.com
