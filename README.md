@@ -39,6 +39,7 @@ we added two workspaces, to view the list of workspaces
 ```bash
 [recon-ng][samglishinc.000webhostapp.com] > workspaces list
 ```
+OUTPUT
 ```
   +-----------------------------------------------------+
   |           Workspaces          |       Modified      |
