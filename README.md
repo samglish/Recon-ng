@@ -39,3 +39,13 @@ we added two workspaces, to view the list of workspaces
 ```bash
 [recon-ng][samglishinc.000webhostapp.com] > workspaces list
 ```
+```
+  +-----------------------------------------------------+
+  |           Workspaces          |       Modified      |
+  +-----------------------------------------------------+
+  | default                       | 2024-08-31 07:54:20 |
+  | facebook.com                  | 2024-08-31 07:59:33 |
+  | samglishinc.000webhostapp.com | 2024-08-31 07:59:56 |
+  +-----------------------------------------------------+
+
+```
