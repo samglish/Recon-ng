@@ -28,13 +28,15 @@ _/    _/  _/_/_/_/    _/_/_/    _/_/_/    _/      _/            _/      _/    _/
 [recon-ng][default] > 
 ```
 to use it you must add a workspace.
-
 ```bash
 [recon-ng][default] > workspaces create facebook
 ```
 Add Domains
 ```bash
 [recon-ng][facebook.com] > db insert domains
+```
+```
+domain (TEXT): facebook.com
 ```
 we added two workspaces, to view the list of workspaces
 ```bash
