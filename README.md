@@ -68,3 +68,8 @@ OUTPUT
   +-----------------------------------------------------+
 
 ```
+let's check the domains
+```bash
+[recon-ng][facebook.com] > show domains
+```
+
