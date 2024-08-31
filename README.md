@@ -28,3 +28,10 @@ _/    _/  _/_/_/_/    _/_/_/    _/_/_/    _/      _/            _/      _/    _/
 [recon-ng][default] > 
 ```
 to use it you must add a workspace.
+
+```bash
+[recon-ng][default] > workspaces create facebook.com
+```
+```bash
+[recon-ng][default] > workspaces create samglishinc.000webhostapp.com
+```
