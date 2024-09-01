@@ -81,5 +81,9 @@ let's check the domains
 
 [*] 1 rows returned
 ```
+```bash
+[recon-ng][facebook.com] > Workspaces load netcraft
+``` 
+
 
 
