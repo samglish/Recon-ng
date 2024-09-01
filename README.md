@@ -84,6 +84,8 @@ let's check the domains
 ```bash
 [recon-ng][facebook.com] > Workspaces load netcraft
 ``` 
-
+```bash
+[recon-ng][facebook.com] > run
+``` 
 
 
